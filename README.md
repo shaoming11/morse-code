@@ -10,7 +10,7 @@ Arduino-based Morse code input device with LCD display.
 - Breadboard & jumper wires
 
 ## Wiring
-
+![image](https://github.com/user-attachments/assets/801d4690-b04b-4f73-b816-3aeecb9ac50d)
 ### LCD to Arduino
 ```
 VSS → GND    |  RS → Pin 12   |  D4 → Pin 5
